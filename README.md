@@ -1,8 +1,9 @@
 # telegramgrup.com
 +18 Telegram Grupları
+
 # Telegram Grup
 
-![Telegram Grup](https://github.com/telegramgrupp/telegramgrup.com/blob/main/tumblr_b9accb5a623d424f59b0a55eceb91c27_ba229aa8_540.jpg)
+<img src="https://github.com/telegramgrupp/telegramgrup.com/blob/main/tumblr_b9accb5a623d424f59b0a55eceb91c27_ba229aa8_540.jpg" alt="Telegram Grup" style="width:100%; max-width:1200px; height:auto;">
 
 **Telegram ifşa grup linklerini rahatça ve kolayca aramalar ile bulabileceğiniz web sitemiz hizmetinize hazırdır. Binlerce telegram grubuna katılın.**
 
